@@ -37,7 +37,7 @@ This is a simple weather application built using **AngularJS** and styled with *
 
 ## 🌐 Live Demo
 
-[🔗 View it on GitHub Pages](https://ajitchowdary.github.io/weather-app/)
+[🔗 View it on GitHub Pages](https://ajitchowdary.github.io/Weather-App-AngularJs/)
 
 ---
 
